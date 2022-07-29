@@ -1,9 +1,11 @@
-## 🚧 Profile under construction 🚧
+# 🚧 Profile under construction 🚧
+
+![SalesforceGif](https://media0.giphy.com/headers/salesforce/ZcLcnBDRoGYW.gif)
 
 <div>
   <h1 style="border: 0px !important;">
     <a href="https://trailblazer.me/id/luanranyel" target="_blank">
-      <img src="https://developer.salesforce.com/files/ti/blogs/img/Blog-ContextualDrivers-336x360-CodeyAstro5.png" width="10%"/>
+      <img src="https://developer.salesforce.com/files/ti/blogs/img/Blog-ContextualDrivers-336x360-CodeyAstro5.png" width="5%"/>
     </a>
     Hi, welcome to my profile. 😊🚀
   </h1>
@@ -82,6 +84,8 @@
 
 
 ---
+![SalesforceGif2](https://media3.giphy.com/media/D9qUfqEXxTzlC8ODiY/giphy.gif?cid=ecf05e47ahe00pv3zb3g84snjj82ss7opdhigury9zkdfeqr&rid=giphy.gif&ct=g)
+![SalesforceGif2](https://media0.giphy.com/media/MdNx4lkDQhsEZ1MaOP/giphy.gif?cid=ecf05e47ahe00pv3zb3g84snjj82ss7opdhigury9zkdfeqr&rid=giphy.gif&ct=g)
 
 <!--
 **LuanRanyel/LuanRanyel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
