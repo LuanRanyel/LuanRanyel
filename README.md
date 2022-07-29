@@ -1,12 +1,15 @@
 ## 🚧 Profile under construction 🚧
 
-
 <div>
-  
-  <h1><a href="https://trailblazer.me/id/luanranyel" target="_blank">
-    <img src="https://developer.salesforce.com/files/ti/blogs/img/Blog-ContextualDrivers-336x360-CodeyAstro5.png" width="10%"/>
-  </a>Hi, welcome to my profile. 😊🚀</h1>
+  <h3 style="border: 0px !important;">
+    <a href="https://trailblazer.me/id/luanranyel" target="_blank">
+      <img src="https://developer.salesforce.com/files/ti/blogs/img/Blog-ContextualDrivers-336x360-CodeyAstro5.png" width="5%"/>
+    </a>
+    Hi, welcome to my profile. 😊🚀
+  </h3>
 </div>
+
+---
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
