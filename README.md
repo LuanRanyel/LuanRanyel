@@ -1,12 +1,12 @@
 ## 🚧 Profile under construction 🚧
 
 <div>
-  <h3 style="border: 0px !important;">
+  <h1 style="border: 0px !important;">
     <a href="https://trailblazer.me/id/luanranyel" target="_blank">
-      <img src="https://developer.salesforce.com/files/ti/blogs/img/Blog-ContextualDrivers-336x360-CodeyAstro5.png" width="5%"/>
+      <img src="https://developer.salesforce.com/files/ti/blogs/img/Blog-ContextualDrivers-336x360-CodeyAstro5.png" width="10%"/>
     </a>
     Hi, welcome to my profile. 😊🚀
-  </h3>
+  </h1>
 </div>
 
 ---
