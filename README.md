@@ -52,6 +52,10 @@
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" title="Administrator" alt="Administrator" width="40" height="40"/>
 </a>
 &nbsp;
+<a href="https://trailhead.salesforce.com/en/credentials/platformappbuilder">
+  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" title="Platform App Builder" alt="Platform App Builder" width="40" height="40"/>
+</a>
+&nbsp;
 
 ---
 
