@@ -1,5 +1,3 @@
-# 🚧 Profile under construction 🚧
-
 ![SalesforceGif](https://media0.giphy.com/headers/salesforce/ZcLcnBDRoGYW.gif)
 
 <div>
@@ -69,12 +67,18 @@
   Salesforce Technologies:
 </h3>
 - Apex <br/>
-- Lightning Web Components <br/>
+- Apex Trigger <br/>
 - Aura Components <br/>
-- Visual Force Page <br/>
-- Flow <br/>
+- B2B Commerce <br/>
 - Copado <br/>
-- Vlocity: DataRaptor, Integration Procedure, FlexCard and other... <br/>
+- Community Cloud <br/>
+- Flow <br/>
+- Lightning Web Components <br/>
+- OmniStudio / Vlocity: DataRaptor, Integration Procedure, FlexCard and other... <br/>
+- Process Builder <br/>
+- Sales Cloud <br/>
+- Service Cloud <br/>
+- Visual Force Page <br/>
 
 
 
